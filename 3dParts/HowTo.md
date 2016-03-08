@@ -1,5 +1,5 @@
 #How to print 3d parts Team 3044
-
+```
 1)If cubify v3.40 software is not installed, download from here: https://drive.google.com/file/d/0B3StMQBAS-3ANVhVTHNzZDVZaTA/view?usp=sharing
 2)Connect to "coolcube" wifi network
 3)Launch Cubifyv3.40 Software
@@ -13,3 +13,4 @@
 10)Follow Prompts to add glue, etc
 
 Pictures coming soon, questions? joeylyon1@gmail.com
+```
